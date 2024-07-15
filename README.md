@@ -6,7 +6,7 @@ No momento, estou estudando desenvolvimento web, como hobby e para adquirir nova
 
 ##
 
-My name is Matheus, and I'm a Mechatronics Engineering student at Escola Politécnica da Universidade de São Paulo (Poli-USP), currently on the 4rd year.<br/>
+My name is Matheus, and I'm a Mechatronics Engineering student at Escola Politécnica da Universidade de São Paulo (Poli-USP), currently on the 4th year.<br/>
 Besides the programming included in my course (algorythms, microcontrollers, machine learning...), I try to study different things.
 Now, I'm studying web dev, as a hobby and to acquire new skills.<br/>
 
